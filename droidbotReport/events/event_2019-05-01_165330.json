@@ -1,0 +1,48 @@
+{
+  "tag": "2019-05-01_165330",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.kabouzeid.gramophone.debug",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          63
+        ]
+      ],
+      "resource_id": "android:id/statusBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 20,
+      "size": "1080*63",
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+      "view_str": "0b1c6f02716f1d2d09e31e4fece8740a",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+    }
+  },
+  "start_state": "c6cb563ba91a89e6dc026a9e710c752c",
+  "stop_state": "c6cb563ba91a89e6dc026a9e710c752c",
+  "event_str": "TouchEvent(state=c6cb563ba91a89e6dc026a9e710c752c, view=0b1c6f02716f1d2d09e31e4fece8740a)"
+}

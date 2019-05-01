@@ -1,0 +1,51 @@
+{
+  "tag": "2019-05-01_165403",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.kabouzeid.gramophone.debug",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        19,
+        20
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          430
+        ],
+        [
+          1052,
+          572
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 18,
+      "size": "1024*142",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "a36027c11f0533179fe9cf471c6ec7e7",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    }
+  },
+  "start_state": "b69df097441c8aa6197a8a687abb0687",
+  "stop_state": "b69df097441c8aa6197a8a687abb0687",
+  "event_str": "TouchEvent(state=b69df097441c8aa6197a8a687abb0687, view=a36027c11f0533179fe9cf471c6ec7e7)"
+}

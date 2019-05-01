@@ -1,0 +1,50 @@
+{
+  "tag": "2019-05-01_165056",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.kabouzeid.gramophone.debug",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "SONGS",
+      "children": [
+        25
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          157,
+          210
+        ],
+        [
+          346,
+          336
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "androidx.appcompat.app.ActionBar$Tab",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 24,
+      "size": "189*126",
+      "signature": "[class]androidx.appcompat.app.ActionBar$Tab[resource_id]None[text]None[enabled,,selected]",
+      "view_str": "d5e42a0315e2d20d959c18fbf696b577",
+      "content_free_signature": "[class]androidx.appcompat.app.ActionBar$Tab[resource_id]None"
+    }
+  },
+  "start_state": "a71c5c2cecf52a474a1b51593e40ec53",
+  "stop_state": "a71c5c2cecf52a474a1b51593e40ec53",
+  "event_str": "TouchEvent(state=a71c5c2cecf52a474a1b51593e40ec53, view=d5e42a0315e2d20d959c18fbf696b577)"
+}

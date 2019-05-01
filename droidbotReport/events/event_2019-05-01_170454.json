@@ -1,0 +1,10 @@
+{
+  "tag": "2019-05-01_170454",
+  "event": {
+    "event_type": "key",
+    "name": "MENU"
+  },
+  "start_state": "8d4a7b4848ee04a38fb9d83905308671",
+  "stop_state": "8d4a7b4848ee04a38fb9d83905308671",
+  "event_str": "KeyEvent(state=8d4a7b4848ee04a38fb9d83905308671, name=MENU)"
+}

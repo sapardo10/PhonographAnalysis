@@ -1,0 +1,48 @@
+{
+  "tag": "2019-05-01_165136",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.kabouzeid.gramophone.debug",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          49,
+          4312
+        ],
+        [
+          280,
+          1794
+        ]
+      ],
+      "resource_id": "com.kabouzeid.gramophone.debug:id/eugene_cheung_website",
+      "checked": false,
+      "text": "WEBSITE",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 113,
+      "temp_id": 114,
+      "size": "231*-2518",
+      "signature": "[class]android.widget.Button[resource_id]com.kabouzeid.gramophone.debug:id/eugene_cheung_website[text]WEBSITE[enabled,,]",
+      "view_str": "b7a92cdaa40888f371601db4971c8c80",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.kabouzeid.gramophone.debug:id/eugene_cheung_website"
+    }
+  },
+  "start_state": "b69df097441c8aa6197a8a687abb0687",
+  "stop_state": "b69df097441c8aa6197a8a687abb0687",
+  "event_str": "TouchEvent(state=b69df097441c8aa6197a8a687abb0687, view=b7a92cdaa40888f371601db4971c8c80)"
+}

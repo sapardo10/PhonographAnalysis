@@ -1,0 +1,48 @@
+{
+  "tag": "2019-05-01_165150",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.kabouzeid.gramophone.debug",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          49,
+          3373
+        ],
+        [
+          353,
+          1794
+        ]
+      ],
+      "resource_id": "com.kabouzeid.gramophone.debug:id/michael_cook_google_plus",
+      "checked": false,
+      "text": "GOOGLE PLUS",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 92,
+      "size": "304*-1579",
+      "signature": "[class]android.widget.Button[resource_id]com.kabouzeid.gramophone.debug:id/michael_cook_google_plus[text]GOOGLE PLUS[enabled,,]",
+      "view_str": "905bdb12cddf94d14c49b159e81e0047",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.kabouzeid.gramophone.debug:id/michael_cook_google_plus"
+    }
+  },
+  "start_state": "b69df097441c8aa6197a8a687abb0687",
+  "stop_state": "b69df097441c8aa6197a8a687abb0687",
+  "event_str": "TouchEvent(state=b69df097441c8aa6197a8a687abb0687, view=905bdb12cddf94d14c49b159e81e0047)"
+}

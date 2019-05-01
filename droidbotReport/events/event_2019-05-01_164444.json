@@ -1,0 +1,48 @@
+{
+  "tag": "2019-05-01_164444",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.kabouzeid.gramophone.debug",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          933,
+          1815
+        ],
+        [
+          1038,
+          1794
+        ]
+      ],
+      "resource_id": "com.kabouzeid.gramophone.debug:id/mini_player_play_pause_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 118,
+      "temp_id": 121,
+      "size": "105*-21",
+      "signature": "[class]android.widget.ImageView[resource_id]com.kabouzeid.gramophone.debug:id/mini_player_play_pause_button[text]None[enabled,,]",
+      "view_str": "4f1461bfd39442571151c5b6e5de3739",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.kabouzeid.gramophone.debug:id/mini_player_play_pause_button"
+    }
+  },
+  "start_state": "2715797bf18f52f76c22a2c78825bba8",
+  "stop_state": "2715797bf18f52f76c22a2c78825bba8",
+  "event_str": "TouchEvent(state=2715797bf18f52f76c22a2c78825bba8, view=4f1461bfd39442571151c5b6e5de3739)"
+}

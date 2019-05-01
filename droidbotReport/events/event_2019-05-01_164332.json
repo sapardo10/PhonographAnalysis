@@ -1,0 +1,50 @@
+{
+  "tag": "2019-05-01_164332",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.google.android.apps.nexuslauncher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Search",
+      "children": [
+        24
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1664
+        ],
+        [
+          1026,
+          1811
+        ]
+      ],
+      "resource_id": "com.google.android.apps.nexuslauncher:id/search_container_hotseat",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 23,
+      "size": "973*147",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.google.android.apps.nexuslauncher:id/search_container_hotseat[text]None[enabled,,]",
+      "view_str": "276102a6779c6f1a120cd05265550ca2",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.google.android.apps.nexuslauncher:id/search_container_hotseat"
+    }
+  },
+  "start_state": "c6cb563ba91a89e6dc026a9e710c752c",
+  "stop_state": "c6cb563ba91a89e6dc026a9e710c752c",
+  "event_str": "TouchEvent(state=c6cb563ba91a89e6dc026a9e710c752c, view=276102a6779c6f1a120cd05265550ca2)"
+}

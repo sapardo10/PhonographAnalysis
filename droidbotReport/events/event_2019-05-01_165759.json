@@ -1,0 +1,51 @@
+{
+  "tag": "2019-05-01_165759",
+  "event": {
+    "event_type": "scroll",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.kabouzeid.gramophone.debug",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          63
+        ],
+        [
+          1080,
+          189
+        ]
+      ],
+      "resource_id": "com.kabouzeid.gramophone.debug:id/tabs",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.HorizontalScrollView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 22,
+      "size": "1080*126",
+      "signature": "[class]android.widget.HorizontalScrollView[resource_id]com.kabouzeid.gramophone.debug:id/tabs[text]None[enabled,,]",
+      "view_str": "949c4d4a6edbda2a429596cab8c8dee5",
+      "content_free_signature": "[class]android.widget.HorizontalScrollView[resource_id]com.kabouzeid.gramophone.debug:id/tabs"
+    },
+    "direction": "LEFT"
+  },
+  "start_state": "a26c1cffd8818d46e595b76cb87b9b94",
+  "stop_state": "a26c1cffd8818d46e595b76cb87b9b94",
+  "event_str": "ScrollEvent(state=a26c1cffd8818d46e595b76cb87b9b94, view=949c4d4a6edbda2a429596cab8c8dee5, direction=LEFT)"
+}

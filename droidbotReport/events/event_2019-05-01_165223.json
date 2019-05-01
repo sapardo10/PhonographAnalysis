@@ -1,0 +1,51 @@
+{
+  "tag": "2019-05-01_165223",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.kabouzeid.gramophone.debug",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        47,
+        48
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          1562
+        ],
+        [
+          1052,
+          1688
+        ]
+      ],
+      "resource_id": "com.kabouzeid.gramophone.debug:id/follow_on_twitter",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 36,
+      "temp_id": 46,
+      "size": "1024*126",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.kabouzeid.gramophone.debug:id/follow_on_twitter[text]None[enabled,,]",
+      "view_str": "b0baedf5129265c652782995df023c35",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.kabouzeid.gramophone.debug:id/follow_on_twitter"
+    }
+  },
+  "start_state": "b69df097441c8aa6197a8a687abb0687",
+  "stop_state": "78f679069e0030d5e5fd86ae2d55e4db",
+  "event_str": "TouchEvent(state=b69df097441c8aa6197a8a687abb0687, view=b0baedf5129265c652782995df023c35)"
+}

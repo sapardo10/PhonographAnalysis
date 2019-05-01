@@ -1,0 +1,10 @@
+{
+  "tag": "2019-05-01_164719",
+  "event": {
+    "event_type": "intent",
+    "intent": "am start com.kabouzeid.gramophone.debug/com.kabouzeid.gramophone.ui.activities.MainActivity"
+  },
+  "start_state": "a19108a7818173f3e64ad7a36b4aeefa",
+  "stop_state": "a5d0bdbc31c574bd953750959adc9355",
+  "event_str": "IntentEvent(intent='am start com.kabouzeid.gramophone.debug/com.kabouzeid.gramophone.ui.activities.MainActivity')"
+}

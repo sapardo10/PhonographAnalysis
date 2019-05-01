@@ -1,0 +1,10 @@
+{
+  "tag": "2019-05-01_164326",
+  "event": {
+    "event_type": "key",
+    "name": "HOME"
+  },
+  "start_state": "f7aee1fa3143d8fed9c3bdbd0e544d54",
+  "stop_state": "f7aee1fa3143d8fed9c3bdbd0e544d54",
+  "event_str": "KeyEvent(state=f7aee1fa3143d8fed9c3bdbd0e544d54, name=HOME)"
+}

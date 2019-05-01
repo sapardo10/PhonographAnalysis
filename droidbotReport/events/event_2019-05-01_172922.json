@@ -1,0 +1,50 @@
+{
+  "tag": "2019-05-01_172922",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.kabouzeid.gramophone.debug",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "PLAYLISTS",
+      "children": [
+        33
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          967,
+          210
+        ],
+        [
+          1080,
+          336
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "androidx.appcompat.app.ActionBar$Tab",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 32,
+      "size": "113*126",
+      "signature": "[class]androidx.appcompat.app.ActionBar$Tab[resource_id]None[text]None[enabled,,]",
+      "view_str": "b658c88eee01d34956f65bffc712eb35",
+      "content_free_signature": "[class]androidx.appcompat.app.ActionBar$Tab[resource_id]None"
+    }
+  },
+  "start_state": "a71c5c2cecf52a474a1b51593e40ec53",
+  "stop_state": "2715797bf18f52f76c22a2c78825bba8",
+  "event_str": "TouchEvent(state=a71c5c2cecf52a474a1b51593e40ec53, view=b658c88eee01d34956f65bffc712eb35)"
+}

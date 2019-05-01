@@ -1,0 +1,48 @@
+{
+  "tag": "2019-05-01_164341",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.google.android.packageinstaller",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          691,
+          1017
+        ],
+        [
+          876,
+          1143
+        ]
+      ],
+      "resource_id": "com.android.packageinstaller:id/permission_allow_button",
+      "checked": false,
+      "text": "ALLOW",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 14,
+      "size": "185*126",
+      "signature": "[class]android.widget.Button[resource_id]com.android.packageinstaller:id/permission_allow_button[text]ALLOW[enabled,,]",
+      "view_str": "da63055801ba4b66379d9e612b6f561f",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.android.packageinstaller:id/permission_allow_button"
+    }
+  },
+  "start_state": "dfa1a5727dcd5b16617b34c9768a2b03",
+  "stop_state": "a71c5c2cecf52a474a1b51593e40ec53",
+  "event_str": "TouchEvent(state=dfa1a5727dcd5b16617b34c9768a2b03, view=da63055801ba4b66379d9e612b6f561f)"
+}

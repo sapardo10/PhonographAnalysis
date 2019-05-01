@@ -1,0 +1,48 @@
+{
+  "tag": "2019-05-01_165140",
+  "event": {
+    "event_type": "touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.kabouzeid.gramophone.debug",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          49,
+          3999
+        ],
+        [
+          353,
+          1794
+        ]
+      ],
+      "resource_id": "com.kabouzeid.gramophone.debug:id/aleksandar_tesic_google_plus",
+      "checked": false,
+      "text": "GOOGLE PLUS",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 106,
+      "temp_id": 107,
+      "size": "304*-2205",
+      "signature": "[class]android.widget.Button[resource_id]com.kabouzeid.gramophone.debug:id/aleksandar_tesic_google_plus[text]GOOGLE PLUS[enabled,,]",
+      "view_str": "0df7ae10dc94912ecb0b00520b17ad1e",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.kabouzeid.gramophone.debug:id/aleksandar_tesic_google_plus"
+    }
+  },
+  "start_state": "b69df097441c8aa6197a8a687abb0687",
+  "stop_state": "b69df097441c8aa6197a8a687abb0687",
+  "event_str": "TouchEvent(state=b69df097441c8aa6197a8a687abb0687, view=0df7ae10dc94912ecb0b00520b17ad1e)"
+}

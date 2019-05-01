@@ -1,0 +1,49 @@
+{
+  "tag": "2019-05-01_170331",
+  "event": {
+    "event_type": "long_touch",
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.kabouzeid.gramophone.debug",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "More options",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          975,
+          73
+        ],
+        [
+          1080,
+          199
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 13,
+      "temp_id": 15,
+      "size": "105*126",
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+      "view_str": "94983566f5c6091b585c42a287708b10",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+    },
+    "duration": 2000
+  },
+  "start_state": "8d4a7b4848ee04a38fb9d83905308671",
+  "stop_state": "8d4a7b4848ee04a38fb9d83905308671",
+  "event_str": "LongTouchEvent(state=8d4a7b4848ee04a38fb9d83905308671, view=94983566f5c6091b585c42a287708b10, duration=2000)"
+}

@@ -1,0 +1,25 @@
+A continuación, encontrarás una lista de oportunidades para mejorar la accesibilidad de Phonograph DEBUG. Cada elemento corresponde a un área descrita en la captura de pantalla adjunta.
+
+Contraste del texto
+android:id/title
+La relación de contraste del texto del elemento es 1,00. Esta relación se basa en un color de primer plano estimado de #FAFAFA y un color de fondo estimado de #FAFAFA. ¿Por qué no aumentas la relación de contraste del texto de este elemento a 3,00 o a un valor superior?
+
+Contraste del texto
+[0,176][1536,246]
+La relación de contraste del texto del elemento es 4,01. Esta relación se basa en un color de primer plano estimado de #F50057 y un color de fondo estimado de #FAFAFA. ¿Por qué no utilizas una relación de contraste superior a 4,50 para textos de pequeño tamaño o a 3,00 para textos de gran tamaño?
+
+Contraste del texto
+[0,512][1536,582]
+La relación de contraste del texto del elemento es 4,01. Esta relación se basa en un color de primer plano estimado de #F50057 y un color de fondo estimado de #FAFAFA. ¿Por qué no utilizas una relación de contraste superior a 4,50 para textos de pequeño tamaño o a 3,00 para textos de gran tamaño?
+
+Contraste del texto
+[0,1247][1536,1317]
+La relación de contraste del texto del elemento es 4,01. Esta relación se basa en un color de primer plano estimado de #F50057 y un color de fondo estimado de #FAFAFA. ¿Por qué no utilizas una relación de contraste superior a 4,50 para textos de pequeño tamaño o a 3,00 para textos de gran tamaño?
+
+Contraste del texto
+[0,1583][1536,1653]
+La relación de contraste del texto del elemento es 4,01. Esta relación se basa en un color de primer plano estimado de #F50057 y un color de fondo estimado de #FAFAFA. ¿Por qué no utilizas una relación de contraste superior a 4,50 para textos de pequeño tamaño o a 3,00 para textos de gran tamaño?
+
+Contraste del texto
+[0,1952][1536,2022]
+La relación de contraste del texto del elemento es 4,01. Esta relación se basa en un color de primer plano estimado de #F50057 y un color de fondo estimado de #FAFAFA. ¿Por qué no utilizas una relación de contraste superior a 4,50 para textos de pequeño tamaño o a 3,00 para textos de gran tamaño?

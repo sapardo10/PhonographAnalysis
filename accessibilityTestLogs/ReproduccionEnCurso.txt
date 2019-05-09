@@ -1,0 +1,58 @@
+A continuación, encontrarás una lista de oportunidades para mejorar la accesibilidad de Phonograph DEBUG. Cada elemento corresponde a un área descrita en la captura de pantalla adjunta.
+
+Contraste del texto
+com.kabouzeid.gramophone.debug:id/player_song_current_progress
+La relación de contraste del texto del elemento es 2,12. Esta relación se basa en un color de primer plano estimado de #FFFFFF y un color de fondo estimado de #B2B2B2. ¿Por qué no aumentas la relación de contraste del texto de este elemento a 3,00 o a un valor superior?
+
+Contraste del texto
+com.kabouzeid.gramophone.debug:id/player_song_total_time
+La relación de contraste del texto del elemento es 2,12. Esta relación se basa en un color de primer plano estimado de #FFFFFF y un color de fondo estimado de #B2B2B2. ¿Por qué no aumentas la relación de contraste del texto de este elemento a 3,00 o a un valor superior?
+
+Contraste del texto
+com.kabouzeid.gramophone.debug:id/player_queue_sub_header
+La relación de contraste del texto del elemento es 1,64. Esta relación se basa en un color de primer plano estimado de #CACACA y un color de fondo estimado de #FFFFFF. ¿Por qué no aumentas la relación de contraste del texto de este elemento a 3,00 o a un valor superior?
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/player_album_cover_viewpager
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/player_progress_slider
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/player_repeat_button
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/player_prev_button
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/player_play_pause_fab
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/player_next_button
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/player_shuffle_button
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+[16,48][128,176]
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Contraste de la imagen
+com.kabouzeid.gramophone.debug:id/player_repeat_button
+La relación de contraste de la imagen es 1,38. Esta relación se basa en un color de primer plano estimado de #C0C0C0 y un color de fondo estimado de #E0E0E0. ¿Por qué no aumentas esta relación a 3,00 o a un valor superior?
+
+Elemento táctil
+[1440,64][1520,160]
+Este elemento tiene una anchura de 40dp. ¿Por qué no la aumentas a 48dp o a un valor superior? Es posible que el contenedor principal esté procesando eventos de entrada táctil para este elemento. Si al seleccionar el contenedor más grande se lleva a cabo la misma acción que si se selecciona este elemento, puedes definir este elemento como uno que no recibe clics. Si la acción resultante es diferente, puedes aumentar el tamaño del elemento.
+

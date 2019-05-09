@@ -1,0 +1,165 @@
+A continuación, encontrarás una lista de oportunidades para mejorar la accesibilidad de Phonograph DEBUG. Cada elemento corresponde a un área descrita en la captura de pantalla adjunta.
+
+Contraste del texto
+com.kabouzeid.gramophone.debug:id/text
+La relación de contraste del texto del elemento es 1,20. Esta relación se basa en un color de primer plano estimado de #E6E6E6 y un color de fondo estimado de #FAFAFA. ¿Por qué no aumentas la relación de contraste del texto de este elemento a 3,00 o a un valor superior?
+
+Contraste del texto
+com.kabouzeid.gramophone.debug:id/text
+La relación de contraste del texto del elemento es 1,28. Esta relación se basa en un color de primer plano estimado de #DFDFDF y un color de fondo estimado de #FAFAFA. ¿Por qué no aumentas la relación de contraste del texto de este elemento a 3,00 o a un valor superior?
+
+Elemento táctil
+[1440,64][1520,160]
+Este elemento tiene una anchura de 40dp. ¿Por qué no la aumentas a 48dp o a un valor superior?
+
+Elementos en los que se puede hacer clic
+com.kabouzeid.gramophone.debug:id/sliding_panel
+Este elemento en el que se puede hacer clic aparece en pantalla en la misma ubicación ([0,1936][1536,2048]) que otros 1 elementos con estas mismas propiedades.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/menu
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/player_album_cover_viewpager
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+[16,1984][128,2048]
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Etiqueta del elemento
+com.kabouzeid.gramophone.debug:id/mini_player_play_pause_button
+Es posible que este elemento no tenga una etiqueta que pueda leer un lector de pantalla.
+
+Contraste de la imagen
+[16,1984][128,2048]
+La relación de contraste de la imagen es 1,88. Esta relación se basa en un color de primer plano estimado de #BDBDBD y un color de fondo estimado de #FFFFFF. ¿Por qué no aumentas esta relación a 3,00 o a un valor superior?
+
+Contraste de la imagen
+[1440,2000][1520,2048]
+La relación de contraste de la imagen es 1,88. Esta relación se basa en un color de primer plano estimado de #BDBDBD y un color de fondo estimado de #FFFFFF. ¿Por qué no aumentas esta relación a 3,00 o a un valor superior?
+
+Contraste del texto
+[536,205][664,243]
+La relación de contraste del texto del elemento es 4,29. Esta relación se basa en un color de primer plano estimado de #C6CBE9 y un color de fondo estimado de #3F51B5. ¿Por qué no utilizas una relación de contraste superior a 4,50 para textos de pequeño tamaño o a 3,00 para textos de gran tamaño?
+
+Contraste del texto
+[856,205][984,243]
+La relación de contraste del texto del elemento es 4,29. Esta relación se basa en un color de primer plano estimado de #C6CBE9 y un color de fondo estimado de #3F51B5. ¿Por qué no utilizas una relación de contraste superior a 4,50 para textos de pequeño tamaño o a 3,00 para textos de gran tamaño?
+
+Contraste del texto
+[1178,205][1302,243]
+La relación de contraste del texto del elemento es 4,29. Esta relación se basa en un color de primer plano estimado de #C6CBE9 y un color de fondo estimado de #3F51B5. ¿Por qué no utilizas una relación de contraste superior a 4,50 para textos de pequeño tamaño o a 3,00 para textos de gran tamaño?
+
+Contraste del texto
+[1424,205][1536,243]
+La relación de contraste del texto del elemento es 4,29. Esta relación se basa en un color de primer plano estimado de #C6CBE9 y un color de fondo estimado de #3F51B5. ¿Por qué no utilizas una relación de contraste superior a 4,50 para textos de pequeño tamaño o a 3,00 para textos de gran tamaño?
+
+Contraste del texto
+com.kabouzeid.gramophone.debug:id/title
+La relación de contraste del texto del elemento es 4,01. Esta relación se basa en un color de primer plano estimado de #F50057 y un color de fondo estimado de #FAFAFA. ¿Por qué no utilizas una relación de contraste superior a 4,50 para textos de pequeño tamaño o a 3,00 para textos de gran tamaño?
+
+Descripciones de elementos
+[1440,64][1520,160]
+El texto hablado de este elemento en el que se puede hacer clic: "Más opciones" es idéntico al de otros 1 elementos.
+
+Elemento táctil
+com.kabouzeid.gramophone.debug:id/action_toggle_favorite
+Este elemento tiene una altura de 24dp. ¿Por qué no la aumentas a 32dp o a un valor superior? Es posible que el contenedor principal esté procesando eventos de entrada táctil para este elemento. Si al seleccionar el contenedor más grande se lleva a cabo la misma acción que si se selecciona este elemento, puedes definir este elemento como uno que no recibe clics. Si la acción resultante es diferente, puedes aumentar el tamaño del elemento.
+
+Elemento táctil
+[1440,2000][1520,2048]
+El tamaño de este elemento es 40dp x 24dp. ¿Por qué no aumentas la anchura del elemento táctil a 48dp y la altura a 32dp, o un valor superior? Es posible que el contenedor principal esté procesando eventos de entrada táctil para este elemento. Si al seleccionar el contenedor más grande se lleva a cabo la misma acción que si se selecciona este elemento, puedes definir este elemento como uno que no recibe clics. Si la acción resultante es diferente, puedes aumentar el tamaño del elemento.
+
+Elemento táctil
+com.kabouzeid.gramophone.debug:id/mini_player_play_pause_button
+El tamaño de este elemento es 40dp x 40dp. ¿Por qué no aumentas la anchura del elemento táctil a 48dp y la altura a 48dp, o un valor superior? Es posible que el contenedor principal esté procesando eventos de entrada táctil para este elemento. Si al seleccionar el contenedor más grande se lleva a cabo la misma acción que si se selecciona este elemento, puedes definir este elemento como uno que no recibe clics. Si la acción resultante es diferente, puedes aumentar el tamaño del elemento.
